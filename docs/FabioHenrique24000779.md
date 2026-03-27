@@ -103,3 +103,47 @@ Atributos técnicos que garantem a performance, segurança e confiabilidade da p
 A implementação deste sistema visa consolidar a governança operacional da rede **Saúde & Vida**, atacando gargalos críticos como a perda de mercadorias e a falta de integração financeira. Ao automatizar a baixa de estoque em tempo real e conectar o ponto de venda diretamente ao contas a receber, eliminamos falhas manuais e garantimos que a diretoria trabalhe com dados em que possa, de fato, confiar. 
 
 Mais do que apenas agilizar o atendimento, o software atua como uma camada de segurança jurídica, blindando a empresa contra irregularidades regulatórias que resultariam em sanções pesadas.
+
+
+## DIAGRAMAS
+
+1. **UC01**
+<img width="278" height="625" alt="image" src="https://github.com/user-attachments/assets/8b260a63-bbb2-45f9-9540-33b28b988226" />
+
+2. **UC02**
+<img width="299" height="312" alt="image" src="https://github.com/user-attachments/assets/f578b5e6-d0ca-421d-b873-7dbb57b06d3c" />
+
+3. **UC03**
+<img width="244" height="257" alt="image" src="https://github.com/user-attachments/assets/5dc798b3-dc73-46fb-8193-02b2c3e94cb9" />
+
+4. **UC04**
+<img width="251" height="312" alt="image" src="https://github.com/user-attachments/assets/919a1086-b336-4d39-88a6-1f499c527620" />
+
+5. **UC05**
+<img width="271" height="367" alt="image" src="https://github.com/user-attachments/assets/ed036966-f081-4d13-bd6f-83dda9e96cad" />
+
+6. **UC06**
+<img width="283" height="312" alt="image" src="https://github.com/user-attachments/assets/eade6700-9f14-4552-8611-eb066ecb159c" />
+
+7. **UC07**
+<img width="345" height="367" alt="image" src="https://github.com/user-attachments/assets/055521b1-81cb-4aeb-997f-c8730b17cb2a" />
+
+8. **UC08**
+<img width="158" height="303" alt="image" src="https://github.com/user-attachments/assets/ec9260bd-e3ab-4d04-b4af-db668ab4a302" />
+
+9. **UC09**
+<img width="322" height="312" alt="image" src="https://github.com/user-attachments/assets/6d1ba092-2f9d-4b01-83f9-27863e96b10b" />
+
+10. **UC10**
+<img width="171" height="303" alt="image" src="https://github.com/user-attachments/assets/3a1cb811-4acd-44c2-83a3-cbc57828fff2" />
+
+
+
+
+
+
+
+
+
+
+
