@@ -102,7 +102,7 @@ Atributos técnicos que garantem a performance, segurança e confiabilidade da p
 
 A implementação deste sistema visa consolidar a governança operacional da rede **Saúde & Vida**, atacando gargalos críticos como a perda de mercadorias e a falta de integração financeira. Ao automatizar a baixa de estoque em tempo real e conectar o ponto de venda diretamente ao contas a receber, eliminamos falhas manuais e garantimos que a diretoria trabalhe com dados em que possa, de fato, confiar. 
 
-Mais do que apenas agilizar o atendimento, o software atua como uma camada de segurança jurídica, blindando a empresa contra irregularidades regulatórias que resultariam em sanções pesadas.
+Mais do que apenas agilizar o atendimento, o software atua como uma camada de segurança jurídica, blindando a empresa contra irregularidades regulatórias que resultariam em sanções pesadas..
 
 
 ## DIAGRAMAS
