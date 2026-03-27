@@ -1,7 +1,7 @@
 # Modelagem do Sistema Integrado de Gestão de Farmácia “Saúde & Vida”
 
-**Aluno:** [SEU NOME AQUI]  
-**RA:** [SEU RA AQUI]
+**Aluno:** [Fabio Henrique Bragagnolo]  
+**RA:** [24000779]
 
 ---
 
